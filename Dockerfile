@@ -1,7 +1,7 @@
 #On choisit une debian
 FROM debian:11.6
 
-LABEL org.opencontainers.image.authors="samiramarzouki/jenkins-docker"
+LABEL org.opencontainers.image.authors="samira_marzouki0 / jenkins-docker-hub"
 
 
 #Ne pas poser de question à l'installation
