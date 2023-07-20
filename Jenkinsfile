@@ -18,8 +18,8 @@ pipeline {
       }
     }
     stage('Push') {
-      steps {
-        sh 'docker push samira_marzouki0/jenkins-docker-hub'
+steps {
+        sh 'samira1/jenkins-docker-hub'
       }
     }
   }
@@ -29,3 +29,5 @@ pipeline {
     }
   }
 }
+
+
